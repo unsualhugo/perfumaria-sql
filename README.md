@@ -1,9 +1,4 @@
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
-  <title>README</title>
-</head>
-<body>
+
 
 <h1>Perfumaria SQL - README</h1>
 
